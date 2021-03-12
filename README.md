@@ -12,3 +12,4 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+- Marcelo Altamura, AltamuraMarcelo
