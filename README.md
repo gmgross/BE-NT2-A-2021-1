@@ -7,9 +7,10 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 
 - Hacer un FORK de este proyecto (con sus cuentas de github personales/estudiantiles).
 - Editar este archivo *README.md* y agregar en el siguiente listado su `nombre`, `apellido`, y `usuario github`.
-
+- Hacer un Pull Request de la rama `main` de sus repositorios (los que hicieron fork) a la rama main del repositorio de la clase.
 
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+- Lucas Di Biase, LDIBIASE
 - Marcelo Altamura, AltamuraMarcelo
