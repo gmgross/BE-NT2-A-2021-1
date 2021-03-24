@@ -13,6 +13,7 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 
 - Daniel Guzman, dguzman-ort
 - Lucas Di Biase, LDIBIASE
+- Agustina Machalani, agusmachalani
 - Facundo Paez, FacundoPaez98
 - Jeronimo Mendivil, JeronimoMendivil 
 - Ornella Stirparo, orneStirparo
