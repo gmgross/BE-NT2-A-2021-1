@@ -1,5 +1,5 @@
 # BE-NT2-A-2021-1
-Repositorio inicial de la clase BE NT2 A! | Programacion en nuevas tecnologías 2.
+Repositorio inicial de la clase BE NT2 A | Programacion en nuevas tecnologías 2.
 
 # Consigna 
 
@@ -13,4 +13,11 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 
 - Daniel Guzman, dguzman-ort
 - Lucas Di Biase, LDIBIASE
+
 - Alejandro Garcia, im-agarcia
+- German Martinez Gross, gmgross
+- Agustina Machalani, agusmachalani
+- Facundo Paez, FacundoPaez98
+- Jeronimo Mendivil, JeronimoMendivil 
+- Ornella Stirparo, orneStirparo
+- Andres Fowler, FowlerAndy
