@@ -15,3 +15,5 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 - Lucas Di Biase, LDIBIASE
 - Facundo Paez, FacundoPaez98
 - Jeronimo Mendivil, JeronimoMendivil 
+- Ornella Stirparo, orneStirparo
+- Andres Fowler, FowlerAndy
