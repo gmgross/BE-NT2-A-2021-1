@@ -13,6 +13,7 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 
 - Daniel Guzman, dguzman-ort
 - Lucas Di Biase, LDIBIASE
+- Iñaki Barnetche, barnetche
 - Jhon Carreño, jhoncar7.
 - Isabel Sayago, IsabelSayago
 - Marcelo Altamura, AltamuraMarcelo
