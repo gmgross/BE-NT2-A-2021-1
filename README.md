@@ -14,4 +14,13 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 - Daniel Guzman, dguzman-ort
 - Lucas Di Biase, LDIBIASE
 - Isabel Sayago, IsabelSayago
+- Marcelo Altamura, AltamuraMarcelo
+- Lucia Pessino, lpessino
+- Mariano Gualtieri, MarGualtieri
+- Alejandro Garcia, im-agarcia
+- German Martinez Gross, gmgross
+- Agustina Machalani, agusmachalani
 - Facundo Paez, FacundoPaez98
+- Jeronimo Mendivil, JeronimoMendivil 
+- Ornella Stirparo, orneStirparo
+- Andres Fowler, FowlerAndy
