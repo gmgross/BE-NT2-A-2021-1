@@ -13,7 +13,7 @@ Para inciar este proytecto, es necesario que todos los alumnos tengan una cuenta
 
 - Daniel Guzman, dguzman-ort
 - Lucas Di Biase, LDIBIASE
-
+- Mariano Gualtieri, MarGualtieri
 - Alejandro Garcia, im-agarcia
 - German Martinez Gross, gmgross
 - Agustina Machalani, agusmachalani
